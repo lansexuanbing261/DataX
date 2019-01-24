@@ -1,0 +1,8 @@
+{
+  "name": "kuduwriter",
+  "parameter": {
+    "writeMode": "insert",
+    "kudu_master": "",
+    "kudu_table": ""
+  }
+}

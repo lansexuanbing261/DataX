@@ -1,0 +1,6 @@
+{
+    "name": "kuduwriter",
+    "class": "com.alibaba.datax.plugin.writer.kuduwriter.KuduWriter",
+    "description": "useScene: prod. mechanism: kudu client connection using the database, execute select sql, retrieve data from the ResultSet. warn: The more you know about the database, the less problems you encounter.",
+    "developer": "wxl"
+}

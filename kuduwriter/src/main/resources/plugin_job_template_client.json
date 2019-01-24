@@ -1,0 +1,16 @@
+{
+  "name": "kuduwriter",
+  "parameter": {
+    "username": "",
+    "password": "",
+    "writeMode": "",
+    "column": [],
+    "preSql": [],
+    "connection": [
+      {
+        "kudu_master": "",
+        "kudu_table": [""]
+      }
+    ]
+  }
+}
